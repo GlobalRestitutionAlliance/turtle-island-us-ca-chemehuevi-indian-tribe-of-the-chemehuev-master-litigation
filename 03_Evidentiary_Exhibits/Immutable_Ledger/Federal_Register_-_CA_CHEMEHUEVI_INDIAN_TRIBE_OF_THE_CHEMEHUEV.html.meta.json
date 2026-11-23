@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=CA+CHEMEHUEVI+INDIAN+TRIBE+OF+THE+CHEMEHUEV",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=CA+CHEMEHUEVI+INDIAN+TRIBE+OF+THE+CHEMEHUEV",
+  "title": "Federal Register - CA CHEMEHUEVI INDIAN TRIBE OF THE CHEMEHUEV",
+  "fetched_at": "2026-11-23T18:17:28.729575Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 101674,
+  "sha256": "2f96a97d9a40f7b170887d689f6f99ad4a4c416af05ae2fc2487593dd94e170b",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
